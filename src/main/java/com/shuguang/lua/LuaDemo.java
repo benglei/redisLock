@@ -25,7 +25,7 @@ public class LuaDemo {
                 "end";
 
         List<String> keys = new ArrayList<String>();
-        keys.add("ip:limit:127.0.0.1");
+        keys.add("ip:limit:192.168.2.131");
         List<String> args = new ArrayList<String>();
         args.add("6000");
         args.add("10");
